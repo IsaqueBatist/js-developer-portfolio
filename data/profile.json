@@ -35,11 +35,6 @@
         "learning": false
       },
       {
-        "name": "Sass",
-        "logo": "/imgs/sass.png",
-        "learning": true
-      },
-      {
         "name": "React",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png",
         "learning": true
